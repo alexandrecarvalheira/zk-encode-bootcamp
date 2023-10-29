@@ -1,1 +1,1 @@
-Cairo tests
+Cairo studies following https://book.cairo-lang.org/
