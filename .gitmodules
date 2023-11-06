@@ -1,0 +1,3 @@
+[submodule "Cairo/ownable"]
+	path = Cairo/ownable
+	url = https://github.com/alexandrecarvalheira/ownable
