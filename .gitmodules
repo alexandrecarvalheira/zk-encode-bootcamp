@@ -1,3 +1,6 @@
 [submodule "Cairo/ownable"]
 	path = Cairo/ownable
 	url = https://github.com/alexandrecarvalheira/ownable
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/alexandrecarvalheira/rustlings
